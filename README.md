@@ -70,9 +70,11 @@ Will be uploaded soon !!!
 **Visualizations**
 
 Examples from Zero-Waste-f
+
 <img width="480" alt="image" src="images/zero_waste_visualizations.jpg">
 
 Examples from ADE20k
+
 <img width="480" alt="image" src="images/ade20k_visualizations.jpg">
 
 ## Citation
