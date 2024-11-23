@@ -2,7 +2,8 @@
 
 [[Arxiv]](https://arxiv.org/abs/2410.24139)
 
-Code will be uploaded soon !!!
+- **Code is released !!!**
+- **Models weights will be uploaded soon !!!**
 
 ## Overview
 COSNet uses boundary cues along with multi-contextual information to accurately segment the objects in cluttered scenes. COSNet introduces novel components including feature sharpening block (FSB) and boundary enhancement module (BEM) for enhancing the features and highlighting the boundary information of irregular waste objects in cluttered environment.
