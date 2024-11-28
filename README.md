@@ -3,7 +3,7 @@
 [[Arxiv]](https://arxiv.org/abs/2410.24139)
 
 - **Code is released !!!**
-- **Models weights will be uploaded soon !!!**
+- **Models weights are uploaded !!!**
 
 ## Overview
 COSNet uses boundary cues along with multi-contextual information to accurately segment the objects in cluttered scenes. COSNet introduces novel components including feature sharpening block (FSB) and boundary enhancement module (BEM) for enhancing the features and highlighting the boundary information of irregular waste objects in cluttered environment.
@@ -59,14 +59,15 @@ python test.py configs/cosnet/uper_cosnet_ade20k_160k.py ./ade20k_logs/iter_1600
 ```
 
 ## Results
-| Model | Dataset | mIoU (%) |
-| :--- | :---: | :---: |
-| COSNet | Zero-Waste-f | 56.67 |
-| COSNet | Spectral-Waste | 69.96 |
-| COSNet | ADE20k | 48.4 |
+| Model | Dataset | mIoU (%) |  |
+| :--- | :---: | :---: | :---: |
+| COSNet | Zero-Waste-f | 56.67 | [download](https://huggingface.co/mubashir04/cosnet_semantic_segmentation) |
+| COSNet | Spectral-Waste | 69.96 | [download](https://huggingface.co/mubashir04/cosnet_semantic_segmentation) |
+| COSNet | ADE20k | 48.4 | [download](https://huggingface.co/mubashir04/cosnet_semantic_segmentation) |
 
-**Model Weights**
-Will be uploaded soon !!!
+**Model Weights** are uploaded !!!
+
+Download the pret-training ImageNet1k weights from [here](https://huggingface.co/mubashir04/cosnet_semantic_segmentation)
 
 **Visualizations**
 
