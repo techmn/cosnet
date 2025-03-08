@@ -1,6 +1,6 @@
 # COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes
 
-[[Arxiv]](https://arxiv.org/abs/2410.24139)
+[[Arxiv]](https://arxiv.org/abs/2410.24139) [[WACV 2025]](https://openaccess.thecvf.com/content/WACV2025/html/Ali_COSNet_A_Novel_Semantic_Segmentation_Network_using_Enhanced_Boundaries_in_WACV_2025_paper.html)
 
 - **Code is released !!!**
 - **Models weights are uploaded !!!**
@@ -80,6 +80,16 @@ Examples from ADE20k
 <img width="480" alt="image" src="images/ade20k_visualizations.jpg">
 
 ## Citation
+```
+@InProceedings{ali_2025_cosnet_WACV,
+    author    = {Ali, Muhammad and Javaid, Mamoona and Noman, Mubashir and Fiaz, Mustansar and Khan, Salman},
+    title     = {COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {1363-1372}
+}
+```
 ```
 @misc{ali2024cosnet,
       title={COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes}, 
