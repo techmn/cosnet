@@ -67,7 +67,7 @@ python test.py configs/cosnet/uper_cosnet_ade20k_160k.py ./ade20k_logs/iter_1600
 
 **Model Weights** are uploaded !!!
 
-Download the pret-training ImageNet1k weights from [here](https://huggingface.co/mubashir04/cosnet_semantic_segmentation)
+Download the pre-training ImageNet1k weights from [here](https://huggingface.co/mubashir04/cosnet_semantic_segmentation)
 
 **Visualizations**
 
