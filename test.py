@@ -130,8 +130,6 @@ def main():
     checkpoint = load_checkpoint(model, args.checkpoint, map_location='cpu')
     model.CLASSES = dataset.METAINFO['palette'] #checkpoint['meta']['CLASSES']
     model.PALETTE = dataset.METAINFO['classes'] #checkpoint['meta']['PALETTE']
-    #model.PALETTE = [[10, 10, 10], [230, 5, 5],[4, 200, 3], [204, 5, 255], [5, 128, 148]]
-    #model.CLASSES = ('background','rigid_plastic', 'cardboard', 'metal', 'soft_plastic')
     
 
     efficient_test = False
