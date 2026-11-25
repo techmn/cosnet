@@ -103,6 +103,5 @@ Examples from ADE20k
 ```
 
 ## See Also
-[FANet](https://github.com/techmn/fanet): Feature Amplification Network for Semantic Segmentation in Cluttered Background (ICIP 2024)
-
-[EWSegNet](https://github.com/techmn/ewsegnet): Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background (ICML 2026)
+- [FANet](https://github.com/techmn/fanet) &nbsp; Feature Amplification Network for Semantic Segmentation in Cluttered Background (ICIP 2024)
+- [EWSegNet](https://github.com/techmn/ewsegnet) &nbsp; Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background (ICML 2026)
