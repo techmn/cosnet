@@ -104,3 +104,5 @@ Examples from ADE20k
 
 ## See Also
 [FANet](https://github.com/techmn/fanet): Feature Amplification Network for Semantic Segmentation in Cluttered Background
+
+[EWSegNet](https://github.com/techmn/ewsegnet): Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background
